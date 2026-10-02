@@ -50,7 +50,7 @@ It helps transform raw sales data into meaningful business insights through inte
 * Category Slicer
 * Brand Slicer
 ## 🖥️ Dashboard Preview
-![E-Commerce Sales Dashboard](Images/dashboard.png)
+![E-Commerce Sales Dashboard](Dashboard.png)
 
 ## 📂 Project Structure
 ```text
